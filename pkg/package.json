@@ -1,0 +1,15 @@
+{
+  "name": "geodesic-path",
+  "collaborators": [
+    "nailgafurov"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "geodesic_path_bg.wasm",
+    "geodesic_path.js",
+    "geodesic_path.d.ts"
+  ],
+  "module": "geodesic_path.js",
+  "types": "geodesic_path.d.ts",
+  "sideEffects": false
+}
